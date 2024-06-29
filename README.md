@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
 <h3 align="center">A passionate student to become Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg”>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafi-wahid&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-wahid" /> </p>
 
