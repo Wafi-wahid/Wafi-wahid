@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.pinterest.com/pin/671810469446384196/)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
 <h3 align="center">A passionate student to become Full Stack Developer</h3>
