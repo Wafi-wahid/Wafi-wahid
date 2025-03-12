@@ -1,4 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" height="200">
+</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
