@@ -1,6 +1,27 @@
 [![MasterHead](https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://rishavchanda.io)
 
+
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
+<p align="center">
+<a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
+  <img src="https://images.credly.com/size/680x680/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" width="120">
+</a>
+
+  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
+    <img src="https://images.credly.com/size/680x680/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
+    <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
+    <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
+    <img src="https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="120">
+  </a>
+</p>
+
+
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
