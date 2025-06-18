@@ -45,12 +45,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wafiwahid26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://dribbble.com/wafi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://www.behance.net/wafi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="wafi wahid" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCsPkkJdtoM9-xbl06epjqqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wafi wahid" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/wafi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wafi-wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wafi-wahid" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/wafiwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wafiwahid" height="30" width="40" /></a>
+
+
 <a href="https://www.hackerrank.com/wafi_wahid26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wafi_wahid26" height="30" width="40" /></a>
 </p>
 
