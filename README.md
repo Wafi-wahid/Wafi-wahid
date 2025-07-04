@@ -52,23 +52,99 @@
 </p>
 
 
-
 <h3 align="left">Skills:</h3>
 
-
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30"/> |
-| **Frontend Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/> |
-| **Backend Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30"/> |
-| **Mobile App Development** | <img src="https://reactnative.dev/img/header_logo.svg" height="30"/> |
-| **AI / ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30"/> |
-| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30"/> |
-| **DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30"/> |
-| **BaaS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="30"/> |
-| **Software & Tools** | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"/> |
-| **Version Control** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/> |
-| **Operating System** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/> |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile App Development</strong></td>
+    <td>
+      <img src="https://reactnative.dev/img/header_logo.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>BaaS</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Software & Tools</strong></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Operating System</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/>
+    </td>
+  </tr>
+</table>
 
 
 
