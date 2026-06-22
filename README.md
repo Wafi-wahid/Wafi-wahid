@@ -1,9 +1,3 @@
-<a href="https://rishavchanda.io">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" height="200">
-</a>
-
-
-
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
 <p align="center">
 <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
