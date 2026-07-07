@@ -1,73 +1,217 @@
 <h1 align="center">Hi 👋, I'm Wafi Wahid</h1>
+
+<h3 align="center">
+Building AI-powered SaaS, Web & Mobile Products from Idea to Deployment.
+</h3>
+
 <p align="center">
-<a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
-  <img src="https://images.credly.com/size/680x680/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" width="120">
+Full-Stack Engineer • AI Builder • Founder in Progress
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/wafiwahid26">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
-    <img src="https://images.credly.com/size/680x680/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
-    <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
-    <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/db9f72d8-1045-42ae-9dfb-6b925ae32e37">
-    <img src="https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="120">
-  </a>
+<a href="mailto:wafi.wahid26@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Wafi-wahid">
+<img src="https://img.shields.io/github/followers/Wafi-wahid?style=for-the-badge"/>
+</a>
+
 </p>
 
+---
 
-<h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
+# 🚀 About Me
 
+I'm a **Full-Stack Software Engineer** passionate about building products that solve real-world problems.
 
+Instead of just writing code, I enjoy designing complete digital products—from UI/UX to backend architecture, deployment, and AI integration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wafi-wahid&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-wahid" /> </p>
+Currently focused on building scalable SaaS applications, intelligent automation, and modern web experiences.
 
-- 🔭 I’m currently working on [personal project](https://github.com/Wafi-wahid/ChitChat-MessagingApp.git)
+---
 
-- 🌱 I’m currently learning **Full Stack Web development**
+# 💼 What I Build
 
-- 💬 Ask me about **C++, Java, HTML, CSS, MySQL, Linux**
+- 🤖 AI-powered SaaS Applications
+- 🌐 Modern Full Stack Web Apps
+- 📱 Cross-platform Mobile Apps
+- ⚡ AI Agents & Automation
+- 💬 Real-time Communication Systems
+- 📊 Dashboards & Admin Panels
+- 🔐 Secure Authentication Systems
+- ☁ Cloud-ready Applications
+- 🎨 Beautiful UI/UX
 
-- 📫 How to reach me **wafi.wahid26@gmail.com**
+---
 
-- ⚡ Fun fact **I'm knowledge seeker**
+# 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/wafiwahid26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsPkkJdtoM9-xbl06epjqqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wafi wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wafi wahid" height="30" width="40" /></a>
-<a href="https://kaggle.com/wafiwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wafiwahid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wafi_wahid26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wafi_wahid26" height="30" width="40" /></a>
+## 🎓 AlumSphere
+**Smart Alumni Reconnect Platform**
+
+A modern alumni ecosystem connecting students, graduates, mentors, and university administration.
+
+### Features
+
+- LinkedIn OAuth
+- AI Assistant
+- Mentorship Platform
+- Job Portal
+- Real-time Messaging
+- Event Management
+- Analytics Dashboard
+
+**Tech**
+
+React • TypeScript • Node.js • Express • MongoDB • Firebase • WebSockets
+
+---
+
+## 💬 ChitChat
+
+Real-time messaging application inspired by modern chat platforms.
+
+### Features
+
+- Authentication
+- Live Messaging
+- WebSockets
+- Media Sharing
+- Responsive UI
+
+**Tech**
+
+React • Node.js • MongoDB • Socket.io
+
+---
+
+## 📈 SmartTrack
+
+Productivity platform helping users stay focused.
+
+### Features
+
+- Task Management
+- Pomodoro
+- Habit Tracking
+- Analytics
+- Clean Dashboard
+
+**Tech**
+
+MERN Stack
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite"/>
+
 </p>
 
+## Backend
 
-<h3 align="left"> Skills:</h3>
+<p>
 
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/> |
-| **Frontend Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> |
-| **Backend Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/> |
-| **Mobile App Development** | <img src="https://reactnative.dev/img/header_logo.svg" width="30"/> |
-| **AI / ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/> |
-| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> |
-| **DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30"/> |
-| **BaaS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="30"/> |
-| **Software & Tools** | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> |
-| **Version Control** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> |
-| **Operating System** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> |
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 
+</p>
 
+## Database
 
+<p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wafi-wahid&show_icons=true&locale=en&layout=compact" alt="wafi-wahid" /></p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafi-wahid&show_icons=true&locale=en" alt="wafi-wahid" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafi-wahid&" alt="wafi-wahid" /></p>
+## AI & Machine Learning
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</p>
+
+## DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,bash"/>
+
+</p>
+
+## Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI
+- AI Automation
+- System Design
+- Scalable SaaS Architecture
+- Docker & Cloud Deployment
+- React Native
+
+---
+
+# 🤝 Open For Collaboration
+
+I'm interested in collaborating on:
+
+- SaaS Products
+- Startup MVPs
+- AI Integrations
+- Full Stack Applications
+- Open Source Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafi-wahid&" alt="wafi-wahid" />
+
+</p>
+
+---
+
+# 💡 My Philosophy
+
+> Great software isn't built by writing more code.
+>
+> It's built by understanding problems, designing thoughtful solutions, and creating products people genuinely enjoy using.
+
+---
+
+# 📫 Let's Build Something Together
+
+Whether you're building a startup, launching an MVP, or need help bringing an idea to life—I'd love to collaborate.
+
+📧 **Email**
+
+wafi.wahid26@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/wafiwahid26
+
+⭐ If you like my work, consider following me and starring my repositories!
